@@ -1,0 +1,4 @@
+services:
+  customform.register:
+    class: Drupal\customform\Services\customService
+    arguments: ['@service.factory']
