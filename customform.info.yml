@@ -1,0 +1,4 @@
+name: 'customform'
+type: module
+description: 'Example of a drupal8 custom form'
+core: 8.x

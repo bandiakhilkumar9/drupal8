@@ -1,0 +1,7 @@
+customform:
+  path: '/customform/ApiForm'
+  defaults:
+     _title: 'custom form Registration'
+     _form: 'Drupal\customform\Formapi\ApiForm'
+  requirements:
+     _permission: 'access content'
